@@ -61,4 +61,5 @@ DiscordSpammer.py is An Discord.py Framework That Let You to Create a Discord Sp
 50.  Type `run`, Make Sure You Enter Your Bot Prefix Before You Type `run`
 ## Contributor
 - ryanistaken
-## lol
+## License
+- LICENSE >>
