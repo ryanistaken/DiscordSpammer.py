@@ -59,3 +59,6 @@ DiscordSpammer.py is An Discord.py Framework That Let You to Create a Discord Sp
 48.  Open Discord
 49.  Go To Server You Chose When You Invite The Bot
 50.  Type `run`, Make Sure You Enter Your Bot Prefix Before You Type `run`
+## Contributor
+- ryanistaken
+## lol
