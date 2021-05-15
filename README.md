@@ -62,4 +62,4 @@ DiscordSpammer.py is An Discord.py Framework That Let You to Create a Discord Sp
 ## Contributor
 - ryanistaken
 ## License
-- LICENSE >>
+- LICENSE >> https://github.com/ryanistaken/DiscordSpammer.py/blob/main/LICENSE
